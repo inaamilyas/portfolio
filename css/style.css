@@ -1128,3 +1128,14 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+#experience img{
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.project-card img{
+  width: 100%;
+  height: 230px;
+  object-fit: cover;
+}
